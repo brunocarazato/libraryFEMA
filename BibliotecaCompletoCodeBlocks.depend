@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1714849384 source:d:\documentos\fema\lp\2. conceitos de orientacao a objetos\5. associacao\bibliotecacompletocodeblocks\src\autor.cpp
+	"Autor.h"
+
+1714849373 d:\documentos\fema\lp\2. conceitos de orientacao a objetos\5. associacao\bibliotecacompletocodeblocks\include\autor.h
+	<vector>
+	<string>
+	"Livro.h"
+
+1714849378 d:\documentos\fema\lp\2. conceitos de orientacao a objetos\5. associacao\bibliotecacompletocodeblocks\include\livro.h
+	<iostream>
+	<string>
+	"Autor.h"
+
+1714854030 source:d:\documentos\fema\lp\2. conceitos de orientacao a objetos\5. associacao\bibliotecacompletocodeblocks\src\biblioteca.cpp
+	"Biblioteca.h"
+
+1714853903 d:\documentos\fema\lp\2. conceitos de orientacao a objetos\5. associacao\bibliotecacompletocodeblocks\include\biblioteca.h
+	<string>
+	"Livro.h"
+
+1714853614 source:d:\documentos\fema\lp\2. conceitos de orientacao a objetos\5. associacao\bibliotecacompletocodeblocks\src\livro.cpp
+	"Livro.h"
+
+1714853969 source:d:\documentos\fema\lp\2. conceitos de orientacao a objetos\5. associacao\bibliotecacompletocodeblocks\main.cpp
+	<iostream>
+	"Autor.h"
+	"Livro.h"
+	"locale.h"
+	"Biblioteca.h"
+
